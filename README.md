@@ -34,9 +34,11 @@ projeto desenvolvido junto ao canal da Rocketseat **UI Clone** [Rocketseat](http
 ### Twitch Interface
 
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img alt="image" title="imagem da interface" src="./assets/images/imageOne.png" height="400">
   <img alt="image" title="imagem da interface" src="./assets/images/imageTwo.png" height="400">
+  <img alt="image" title="imagem da interface" src="./assets/images/imageOne.png" height="400">
 </p>
+
+---
 
 ## 🚀 Como executar o projeto
 
@@ -48,9 +50,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 Baixe o arquivo <a href="https://github.com/RodrigoJuniorLiyah/UI-Clone-twitch-interface/archive/video-entrypoint.zip">Aqui</a>
 
-✔ Em seu editor execute yarn install ou npm
-✔ Execute yarn start ou npm run build
-🐱‍👤 Pronto, seu projeto irá ser executado!
+✔ Em seu editor execute yarn install ou npm<br>
+✔ Execute yarn start ou npm run build<br>
+🐱‍👤 Pronto, seu projeto irá ser executado!<br>
 🐱‍👓 Recomendo utilizar o aplicativo expo em seu smartphone para ter uma melhor experiência.
 
 ---
